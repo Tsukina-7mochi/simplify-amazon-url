@@ -11,7 +11,7 @@ https://www.amazon.com/dp/1491952024
 # Usage
 
 Add following link to your bookmark with whatever name you like:
-!
+
 ```
 javascript:((i)%3D%3E%7Bvar%20c%3Bc%3Di.href.split(%22%2F%22)%2Ci.href%3Dc.slice(0%2C3).concat(c.slice(c.indexOf(%22dp%22)).slice(0%2C2)).join(%22%2F%22)%7D)(location)
 ```
