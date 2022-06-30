@@ -1,4 +1,4 @@
-# Amazon URL Bookmarklet
+# Simplify Amazon URL
 
 Simplifies the amazon url like (this is not an affiliate!):
 
